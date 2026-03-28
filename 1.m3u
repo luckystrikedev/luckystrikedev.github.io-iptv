@@ -8,11 +8,8 @@ https://d2qsan2ut81n2k.cloudfront.net/live/19e86940-42cc-485e-80f4-89ae27c69f1b/
 #EXTINF:-1 tvg-id="3" tvg-name="ECUADOR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png" group-title="Ecuador",ECUADOR TV 
 https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="4" tvg-name="TC TELEVISION (720p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/TCtelevision2020.png" group-title="Ecuador",TC TELEVISION (720p)
-https://live.eu-north-1a.cf.dmcdn.net/sec2(1w9jWpdOGH0eeayLtHMGHrpx81Cb5gm45jpixSOL2neYtc3ohy9Bzfd7CKCOsFHbbGIexDbKEfPhGJLuvf1I16hpFmXKqMmXzzftrbv_QoTvtIs_PlYXln-3Eh4EUwxR)/dm/3/x7wijay/s/live-720.m3u8
-
-#EXTINF:-1 tvg-id="4" tvg-name="TC TELEVISION 2 (480p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/TCtelevision2020.png" group-title="Ecuador",TC TELEVISION 2 (480p)
-https://live.eu-north-1b.cf.dmcdn.net/sec2(WROnkfEiP01rpzOPpu4DJYQA0ZUbZS5Eg2ARruc-5pyK-4mbNB96KKkhqJd7QqMLo118hsJF6fQcX54zFFSapj1lzN31LJhE8obn_40AEBY8aqpybDVhhWqJ63TMNOIW)/dm/3/x7wijay/s/live-480.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="TC TELEVISION" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/TCtelevision2020.png" group-title="Ecuador",TC TELEVISION
+https://live.eu-north-1b.cf.dmcdn.net/sec2(KRiEGVRM4kEGkk2cgjEX9gxmbW5cDwl-2SaJU2j_tbS8xVWPO6gn2QEJHYteRAP6aqnLNmbAlMl3f8M1NWGnkHEBc6p2uN6D7sxiHfpsYkIvPXEiRHKAWije8HmU2Mlg)/dm/3/x7wijay/s/live-480.m3u8
 
 #EXTINF:-1 tvg-id="5" tvg-name="TELEAMAZONAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logoteleamazonas.png" group-title="Ecuador",TELEAMAZONAS
 https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/live-video=600000.m3u8
