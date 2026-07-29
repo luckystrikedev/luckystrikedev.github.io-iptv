@@ -3,13 +3,14 @@
 # ECUADOR
 
 #EXTINF:-1 tvg-id="2" tvg-name="TVC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/TVCEcuador2023.png/revision/latest?cb=20230215230242&path-prefix=es" group-title="Ecuador",TVC 
-https://d2qsan2ut81n2k.cloudfront.net/live/19e86940-42cc-485e-80f4-89ae27c69f1b/medialist_5900814650867226228_hls.m3u8
+https://d2m7i0pvomh4vg.cloudfront.net/medialist_15609871089997455276_hls.m3u8
+
 
 #EXTINF:-1 tvg-id="3" tvg-name="ECUADOR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png" group-title="Ecuador",ECUADOR TV 
 https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="4" tvg-name="TC TELEVISION" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/TCtelevision2020.png" group-title="Ecuador",TC TELEVISION
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(VcG7-I6vjAUUzi_wKYjOMNzbKCdp5TsevxjpFp8it7Gh38IzOjujtw6_eECiHB_RZS2C9uekY6oZrqKrJJWZmeSt9ozqYuZBt8Hbxyf0C-r82_U-IgUUzJvYbzlEf8-x)/cloud/3/x7wijay/s/live-380.m3u8
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(xiXp0Wk437gJlkwhuja1trPd18sCyrTXt6VzXBSnm3uMFZI7DjmAUJWeYxczarBhhEum_Th8qHl8TcSk4imf6gmAHoHnIOS-BrKoLM1dN8I72-bh95TbsN3aFFFb20SR)/cloud/3/x7wijay/s/live-380.m3u8
 
 #EXTINF:-1 tvg-id="5" tvg-name="TELEAMAZONAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logoteleamazonas.png" group-title="Ecuador",TELEAMAZONAS
 https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/live-video=600000.m3u8
